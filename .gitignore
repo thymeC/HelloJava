@@ -1,1 +1,8 @@
-HelloJava.iml
+# Java class files
+*.class
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
